@@ -67,10 +67,12 @@ To run and display the tests, open `tests.html` in a browser.
 - Test/method-paring: One person writes the test, the other writes the implementation code. Both should discuss.
 - Rotate every 4 minutes.
 
-## Third session: 20 minutes:
+## Session 3
+**Length: 20 minutes**
+
 - Pomodoro-style pairing, but on a projector.
 - There will be only _one_ pair coding, but everyone can take their turn on screen.
 - Everyone will contribute.
 
-## Last session:
+## Session 4
 - Code review
