@@ -27,7 +27,7 @@ Fizz
 ```
 
 ### Test framework ###
-To keep things simple we have supplied a simple JavaScript test framework in the `testframework` folder.
+To keep things simple we have supplied a basic JavaScript test framework in the `testframework` folder.
 
 The framework example consists of two JavaScript files:
 - `main.js` - Tests are declared here
