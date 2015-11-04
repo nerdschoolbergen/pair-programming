@@ -76,3 +76,7 @@ To run and display the tests, open `tests.html` in a browser.
 - Code review
 
 ## Session 5 - Word wrap
+- Write a function that wraps text
+- The function must take line length as a parameter
+- Words cannot be split, unless they contain hyphens (-)
+- Lines cannot start with a whitespace character
