@@ -4,7 +4,8 @@ Basic concept: Two programmers sit together and collaborate on writing code.
 
 ## Task &ndash; JavaScript FizzBuzz kata
 
-- Run through the FizzBuzz kata with test driven development and pair programming using the supplied test framework in JavaScript.
+- Run through the FizzBuzz kata in pairs
+- Run through the kata again using TDD using the supplied test framework in JavaScript.
 
 ### Problem description
 
