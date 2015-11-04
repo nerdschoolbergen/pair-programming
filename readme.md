@@ -55,25 +55,24 @@ assert('integer 0 is not equal to string 0', function(){
 #### Running tests
 To run and display the tests, open `tests.html` in a browser.
 
-## Session 1
+## Session 1 - Fizzbuzz kata, no tests
 
 **Length: 20 minutes**
 
 - Pomodoro-style pairing: The _Driver_ (writes the code) and the _observer_ (helps, reviews and remembers things you need to do later on).
 - We'll rotate every 4 minutes by swapping seats (the _driver_ becomes the _observer_, and vice versa)
 
-## Session 2
+## Session 2 - Fizzbuzz kata, TDD
 **Length: 20 minutes**
-
-- Test/method-paring: One person writes the test, the other writes the implementation code. Both should discuss.
+- Same approach as session 1, only using TDD
 - Rotate every 4 minutes.
 
-## Session 3
+## Session 3 - Fizzbuzz kata, TDD
 **Length: 20 minutes**
-
-- Pomodoro-style pairing, but on a projector.
-- There will be only _one_ pair coding, but everyone can take their turn on screen.
-- Everyone will contribute.
+- Test/method-paring: One person writes the test, the other writes the implementation code. Both should discuss.
+- Rotate half-way
 
 ## Session 4
 - Code review
+
+## Session 5 -
