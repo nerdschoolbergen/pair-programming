@@ -75,4 +75,4 @@ To run and display the tests, open `tests.html` in a browser.
 ## Session 4
 - Code review
 
-## Session 5 -
+## Session 5 - Word wrap
