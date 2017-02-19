@@ -59,6 +59,7 @@ To run and display the tests, open `tests.html` in a browser.
 
 - Pomodoro-style pairing: The _Driver_ (writes the code) and the _observer_ (helps, reviews and remembers things you need to do later on).
 - We'll rotate every 4 minutes by swapping seats (the _driver_ becomes the _observer_, and vice versa)
+- Tip: Just write a function for the conversion, get started with as little fuzz as possible
 
 ## Session 2 - Roman numerals kata, TDD
 **Length: 20 minutes**
