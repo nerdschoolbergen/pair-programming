@@ -53,6 +53,7 @@ var expect = function(actual){
 
     toEqual: function(expected){
       var result = invertComparison ? expected !== actual : expected === actual;
+      if(!result) console.log("Expected " + expected + " but was " + actual);
       appendToTestResults(result);
       updateTestCount();
     }
