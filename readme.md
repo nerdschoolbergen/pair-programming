@@ -9,21 +9,14 @@ Basic concept: Two programmers sit together and collaborate on writing code.
 
 ### Problem description
 
-- Write a program that converts a number to roman numerals.
+- Implement a function that converts a number to roman numerals. An empty method is provided in roman.js. To run, open index.html and enter a valid number.
 - Try it out with small numbers first, then build up to larger numbers.
 - Numbers larger than 5000 should not be accepted.
 - Rules can be found here: https://www.mathsisfun.com/roman-numerals.html
 
-Example program:
+Example output:
 
-```
-Enter a number between 1 and 5000: 3
-The roman numeral is III
-Enter a number between 1 and 5000: 9
-The roman numeral is IX
-Enter a number between 1 and 5000: 98
-XCVIII
-```
+![Image of index page](images/example.png)
 
 ### Test framework ###
 To keep things simple we have supplied a basic JavaScript test framework in the `testframework` folder.
