@@ -28,4 +28,7 @@
 		expect(true).toEqual(false);
 	});
 
+	assert('decimal 1 is equal roman numeral I', function() {
+		expect(convert(1)).toEqual('I');
+	});
 }());
