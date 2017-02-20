@@ -5,7 +5,7 @@ Basic concept: Two programmers sit together and collaborate on writing code.
 ## Task &ndash; JavaScript Roman Numerals kata
 
 - Run through the Roman Numerals kata in pairs
-- Run through the kata again using TDD using the supplied test framework in JavaScript.
+- Run through the kata again with TDD using the supplied test framework in JavaScript.
 
 ### Problem description
 
@@ -52,7 +52,7 @@ To run and display the tests, open `tests.html` in a browser.
 
 - Pomodoro-style pairing: The _Driver_ (writes the code) and the _observer_ (helps, reviews and remembers things you need to do later on).
 - We'll rotate every 4 minutes by swapping seats (the _driver_ becomes the _observer_, and vice versa)
-- Tip: Just write a function for the conversion, get started with as little fuzz as possible
+- Tip: Start with small numbers
 
 ## Session 2 - Roman numerals kata, TDD
 **Length: 20 minutes**
