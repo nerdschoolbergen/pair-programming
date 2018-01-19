@@ -1,63 +1,54 @@
-# Nerdschool Bergen - Pair programming
+# Pair programming
 
-Basic concept: Two programmers sit together and collaborate on writing code.
+Description
 
-## Task &ndash; JavaScript Roman Numerals kata
+## [Open presentation slides](https://docs.google.com/presentation/d/1VL2roxldXDYPir_Cm8j9Dj9vyIEyM9qiAFWohHSOAA8/edit?usp=sharing)
 
-- Run through the Roman Numerals kata in pairs. Use Test Driven Development. We supply a test framework (see the testframework directory)
+## Focus of this workshop
 
-### Problem description
+The focus of this workshop is xxx
 
-- Implement a function that converts a number to roman numerals. An empty method is provided in roman.js. To run, open index.html and enter a valid number.
-- Tests are written in testframework/main.js. There are a number of tests there to show you how the testframework behaves, they are not needed for the kata. See below for a detailed explanation.
-- Try it out with small numbers first, then build up to larger numbers.
-- Numbers larger than 5000 should not be accepted.
-- Rules can be found here: https://www.mathsisfun.com/roman-numerals.html
+## What you need
 
-Example output:
+- [Atom](https://atom.io/)
+- [Node.js](https://nodejs.org)
 
-![Image of index page](images/example.png)
+## How to get started
 
-### Test framework ###
-To keep things simple we have supplied a basic JavaScript test framework in the `testframework` folder.
+- Start by cloning this repository into a folder on your computer. If you've never used git before, you can alternatively use the the "Download ZIP" button to the right.
+- Although you have this `README.md` file on your computer it's easier to read it on GitHub, so we recommend you keep this page open with the exercise tasks.
 
-The framework example consists of two JavaScript files:
-- `main.js` - Tests are declared here
-- `testframework.js` - Main testing framework. You will most likely not need to touch this file. 
+## Exercises
 
-#### Declaring tests
-`assert` takes two parameters, a test description and a function containing the test.
+This repository contains a set of exercises organized in folders. Each folder contains a `README.md` describing the exercise:
 
-Example test with a simple assertion using `expect(bool)` and `toEqual(bool)`:
+- [Exercise 1 - Pomodoro-style pairing](exercise-1/) (start here)
+- [Exercise 2 - Test/method-style pairing](exercise-2/)
+- [Exercise 3 - Code review](exercise-3/)
 
-```javascript
-assert('should fail', function(){
-  expect(true).toEqual(false);
-});
+### Symbols and notation used in exercises
+
+#### Icons with special meaning
+
+:pencil2: - A task you should do
+:book: - A section of text to read (no tasks, just information).
+:bulb: - Additional information.
+:exclamation: - Something important.
+:question: - Open-ended question for the reader ("What do you think would happen if...")
+:poop: - Bad practice (don't-do-this)
+:star: - A bonus task (not required)
+
+#### Keyboard keys
+
+Will look like this:
+
+<kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>C</kbd>
+
+#### Diff blocks
+
+Emphasizes how lines of text should change.
+
+```diff
+- this text was removed
++ and replaced with this text
 ```
-
-To negate,  use `.not()`:
-```javascript
-assert('integer 0 is not equal to string 0', function(){
-  expect('0').not().toEqual(0);
-});
-```
-
-#### Running tests
-To run and display the tests, open `tests.html` in a browser.
-
-## Session 1 - Roman numerals kata, TDD
-
-**Length: 30 minutes**
-
-- Pomodoro-style pairing: The _Driver_ (writes the code) and the _observer_ (helps, reviews and remembers things you need to do later on).
-- We'll rotate every 6 minutes by swapping seats (the _driver_ becomes the _observer_, and vice versa)
-- Tip: Start with small numbers
-
-## Session 2 - Roman numerals kata, TDD
-**Length: 30 minutes**
-- Test/method-paring: One person writes the test, the other writes the implementation code. Both should discuss.
-- Rotate half-way, so that the driver becomes the observer for the last 15 minutes. 
-
-## Session 3
-- Code review
