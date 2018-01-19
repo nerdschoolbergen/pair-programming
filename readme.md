@@ -1,12 +1,12 @@
 # Pair programming
 
-Description
+Basic concept: Two programmers sit together and collaborate on writing code.
 
 ## [Open presentation slides](https://docs.google.com/presentation/d/1VL2roxldXDYPir_Cm8j9Dj9vyIEyM9qiAFWohHSOAA8/edit?usp=sharing)
 
 ## Focus of this workshop
 
-The focus of this workshop is xxx
+The focus of this workshop is to teach you how to program in pairs effectively.
 
 ## What you need
 
