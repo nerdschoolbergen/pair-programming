@@ -96,7 +96,7 @@ test("the shipping list is correct after adding brunost", () => {
 :book: [Fizz buzz](https://en.wikipedia.org/wiki/Fizz_buzz) is a word game designed teach children about division. Players take turns to count upwards from 1, replacing any number divisible by three with the word "Fizz", and any number divisible by five with the word "Buzz".
 
 * Write a program that prints the numbers from 1 to 100
-* For numbers which aremultiples of three print "Fizz" instead of the number
+* For numbers which are multiples of three print "Fizz" instead of the number
 * For numbers which are multiples of five print "Buzz"
 * For numbers which are multiples of both three and five print "FizzBuzz"
 
