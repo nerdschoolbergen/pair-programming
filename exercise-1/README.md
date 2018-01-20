@@ -91,6 +91,24 @@ test("the shipping list is correct after adding brunost", () => {
 
 :bulb: Read more about using matchers in the [Jest matchers documentation](https://facebook.github.io/jest/docs/en/using-matchers.html).
 
+#### 0.4.3 Grouping tests using `describe`
+
+Tests can be grouped together using the `describe` function:
+
+```js
+const shoppingList = ["melk", "brunost"];
+
+describe("shopping list", () => {
+  test("is 2 items long", () => {
+    expect(shoppingList.length).toBe(2);
+  });
+
+  test("has brunost in it", () => {
+    expect(shoppingList).toContain("brunost");
+  });
+});
+```
+
 ## 1.1 Fizz buzz kata
 
 :book: [Fizz buzz](https://en.wikipedia.org/wiki/Fizz_buzz) is a word game designed teach children about division. Players take turns to count upwards from 1, replacing any number divisible by three with the word "Fizz", and any number divisible by five with the word "Buzz".
