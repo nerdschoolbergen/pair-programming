@@ -3,7 +3,8 @@
   "private": true,
   "scripts": {
     "test": "jest",
-    "start:ex1": "./exercise-1/index.js"
+    "start:ex1": "./exercise-1/index.js",
+    "start:ex2": "./exercise-2/index.js"
   },
   "repository": {
     "type": "git",
