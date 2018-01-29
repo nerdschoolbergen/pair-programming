@@ -53,7 +53,7 @@ This command runs the `test` script defined in `package.json`, which in turn cal
 
 #### 0.4.1 Declaring test functions
 
-: book: To declare a test use the `test` function:
+:book: To declare a test use the `test` function:
 
 ```js
 test("did not rain", () => {
