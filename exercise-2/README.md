@@ -11,3 +11,5 @@ This exercise will focus on Pomodoro-style pairing using the fizz buzz kata from
 :pencil2: Use test/method-paring: One person writes the test, the other writes the implementation code. Both should discuss.
 
 :pencil2: Rotate half-way, so that the driver becomes the observer for the last 15 minutes.
+
+### [Go to exercise 3 :arrow_right:](../exercise-3/README.md)
