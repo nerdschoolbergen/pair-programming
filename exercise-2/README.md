@@ -2,7 +2,7 @@
 
 This exercise will focus on Pomodoro-style pairing using the fizz buzz kata from the last exercise.
 
-## 1.1 Pair programming session
+## 2.1 Pair programming session
 
 > :exclamation: **Session length:**  2 x 15 minutes
 
