@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/nerdschoolbergen/pair-programming#readme",
   "devDependencies": {
-    "jest": "^22.1.4"
+    "jest": "^24.0.0"
   }
 }
