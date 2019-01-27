@@ -159,4 +159,6 @@ Buzz
 :bulb: Skeleton functions are created in the exercise files. The function `fizzBuzzRange` takes in one argument `max`, which will be the length of the fizzBuzz-range you are creating. The function should return an array of elements, where each element is either a number, "Fizz", "Buzz" or "FizzBuzz". 
 `fizzBuzzRange(5)` should return `[1, 2, "Fizz", 4, "Buzz"]`.
 
+:bulb: You will see some tests already present in the tests-file. You are welcome to delete these tests, as they only serve a demonstrative purpose until you write your own tests.
+
 ### [Go to exercise 2 :arrow_right:](../exercise-2/README.md)
