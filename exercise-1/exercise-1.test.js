@@ -1,12 +1,11 @@
 const exercise1 = require("./exercise-1");
 
-describe("fizzBuzz", () => {
-  test("please name me", () => {
-    // some test calling exercise1.fizzBuzz(someinput)
-  });
-});
-
 describe("fizzBuzzRange", () => {
+  
+  test("One should equal one", () => {
+    expect(1).toBe(1);
+  });
+  
   test("please name me as well", () => {
     const correctResult = [
       1,

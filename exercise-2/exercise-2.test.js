@@ -1,11 +1,5 @@
 const exercise2 = require("./exercise-2");
 
-describe("fizzBuzz", () => {
-  test("please name me", () => {
-    // some test calling exercise2.fizzBuzz(someinput)
-  });
-});
-
 describe("fizzBuzzRange", () => {
   test("please name me as well", () => {
     const correctResult = [
