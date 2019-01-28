@@ -16,3 +16,9 @@ In this exercise we'll look at the code we've already written and do a little co
 ## 3.3 Important notes
 
 :exclamation: Code can be very personal. The code is basically a thought process turned directly into text. Remember that your code is very personal to you when receiving critique so be nice when you review other people’s code.
+
+## 3.4
+
+:star: If you finished all the work, go over to the bonus exercise. Here you will convert numbers to decimal numbers. Try to practice what you have learned so far about pair programming and TDD.
+
+### [Go to bonus exercise](../exercise-4/README.md)
