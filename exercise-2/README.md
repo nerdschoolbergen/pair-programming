@@ -1,6 +1,6 @@
 # Exercise 2 - Test/method-style pairing
 
-This exercise will focus on Pomodoro-style pairing using the fizz buzz kata from the last exercise.
+This exercise will focus on test/method-style pairing pairing using the fizz buzz kata from the last exercise.
 
 ## 2.1 Pair programming session
 
