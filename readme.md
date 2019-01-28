@@ -25,7 +25,7 @@ This repository contains a set of exercises organized in folders. Each folder co
 - [Exercise 1 - Pomodoro-style pairing](exercise-1/) (start here)
 - [Exercise 2 - Test/method-style pairing](exercise-2/)
 - [Exercise 3 - Code review](exercise-3/)
-- [Exercise 4 (Bonus exercise :star:) - Pair programming/TDD solving roman numerals](exercise-4/)
+- [Bonus exercise - Pair programming/TDD solving roman numerals](exercise-4/)
 
 ### Symbols and notation used in exercises
 

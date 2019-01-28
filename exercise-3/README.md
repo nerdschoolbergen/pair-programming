@@ -19,6 +19,6 @@ In this exercise we'll look at the code we've already written and do a little co
 
 ## 3.4
 
-:star: If you finished all the work, go over to the bonus exercise. Here you will convert numbers to decimal numbers. Try to practice what you have learned so far about pair programming and TDD.
+If you finished all the work, go over to the bonus exercise. Here you will convert numbers to decimal numbers. Try to practice what you have learned so far about pair programming and TDD.
 
-### [Go to bonus exercise](../exercise-4/README.md)
+### :star: [Go to bonus exercise](../exercise-4/README.md)
