@@ -1,24 +1,27 @@
-# Exercise 3 - Code Review
+# Exercise 3 - Roman numerals 
 
-In this exercise we'll look at the code we've already written and do a little code review!
+In this exercise, you will get to solve a more complex problem than FizzBuzz. 
+Apply the concepts you have learned in exercise 1 and 2. Remember the do's and dont's of pair programming.
 
-## 3.1 What is Code Review?
+## 3.1 Problem description
 
-:book: A code review is a process where two or more developers visually inspect a set of program code, typically, several times. The code can be a method, a class, or an entire program. The main code-review objectives are:
+Implement a function that convers a number to roman numerals. An empty method is provided in `exercise-4.js`. The function should take a number as input and output a roman numeral string.
 
-* Best Practice ~ A more efficient, less error-prone, or more elegant way to accomplish a given task.<br/>
-* Error Detection ~ Discovering logical or transitional errors.
+Try to implement it with small numbers first, then build up to larger numbers. Numbers larger than 500 should not be accepted by your function. 
 
-## 3.2 Code Review session
+All the rules can be found here: https://www.mathsisfun.com/roman-numerals.html
 
-:book: In this exercise there is no actual coding. You should now have either one or two projects on your pc with the code written in exercise 1 and exercise 2. Go through the code and review both the functions and tests. What is good about the code and what could be done differently? Are there some "edge-case" tests that are missing? Reflecting on yours and others code is a good practice to being able to understand a problem and being able to explain a problem to others.
+Try to use test-driven development to drive the code towards a functioning converter. 
 
-## 3.3 Important notes
+Try to rotate every now and then. Do not neccecarily time every rotation, but try to rotate often and try to practice the "do's" of pair programming. (Ask for the keyboard, communicate clearly, be polite, talk about the problem, be constructive).
 
-:exclamation: Code can be very personal. The code is basically a thought process turned directly into text. Remember that your code is very personal to you when receiving critique so be nice when you review other people’s code.
+---
+```javascript
+function convertRoman(number) {
+    return "I";
+}
+```
 
-## 3.4
+A function has been created, simply returning the the roman numeral value for 1. Write your tests in `exercise-4.tests.js` while implementing the logic of your converter in `exercise-4.js`. 
 
-If you finished all the work, go over to the bonus exercise. Here you will convert numbers to decimal numbers. Try to practice what you have learned so far about pair programming and TDD.
-
-### :star: [Go to bonus exercise](../exercise-4/README.md)
+### [Go to exercise 4 :arrow_right:](../exercise-4/README.md)

@@ -23,9 +23,9 @@ The focus of this workshop is to teach you how to program in pairs effectively.
 This repository contains a set of exercises organized in folders. Each folder contains a `README.md` describing the exercise:
 
 - [Exercise 1 - Pomodoro-style pairing](exercise-1/) (start here)
-- [Exercise 2 - Test/method-style pairing](exercise-2/)
-- [Exercise 3 - Code review](exercise-3/)
-- [Bonus exercise - Pair programming/TDD solving roman numerals](exercise-4/)
+- [Exercise 2 - Pomodoro-style pairing - New pairs](exercise-2/)
+- [Exercise 3 - Roman numerals](exercise-3/)
+- [Exercise 4 - Code review](exercise-4/)
 
 ### Symbols and notation used in exercises
 
