@@ -5,7 +5,7 @@ Apply the concepts you have learned in exercise 1 and 2. Remember the do's and d
 
 ## 3.1 Problem description
 
-Implement a function that convers a number to roman numerals. An empty method is provided in `exercise-4.js`. The function should take a number as input and output a roman numeral string.
+Implement a function that convers a number to roman numerals. An empty method is provided in `exercise-3.js`. The function should take a number as input and output a roman numeral string.
 
 Try to implement it with small numbers first, then build up to larger numbers. Numbers larger than 500 should not be accepted by your function. 
 
