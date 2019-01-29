@@ -10,7 +10,6 @@ The focus of this workshop is to teach you how to program in pairs effectively.
 
 ## What you need
 
-- [Atom](https://atom.io/)
 - [Node.js](https://nodejs.org)
 
 ## How to get started
