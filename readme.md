@@ -2,7 +2,7 @@
 
 Basic concept: Two programmers sit together and collaborate on writing code.
 
-## [Open presentation slides](https://docs.google.com/presentation/d/1PIASrR2kw3yB68mJfDU3CWnW88-EKgVRijoUDl1EqLY/edit?usp=sharing)
+## [Open presentation slides](https://docs.google.com/presentation/d/14dxV_7CpaVW9_4LjmRebCLoEijz_W6ErBvGg0-I7AQo)
 
 ## Focus of this workshop
 
