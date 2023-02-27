@@ -2,6 +2,8 @@
 
 This exercise will focus on Pomodoro-style :tomato: pairing using the fizz buzz kata.
 
+![alt pomodoro-method](https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3BvbW9kb3JvMy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==)
+
 ## 0.0 Dev environment setup
 
 :exclamation: In this workshop we are going to use Node.js and the Jest framework to run JavaScript code and tests from the command line.
@@ -12,14 +14,14 @@ This exercise will focus on Pomodoro-style :tomato: pairing using the fizz buzz 
 
 ```bash
 $ node -v
-v8.9.2
+v18.12.1
 ```
 
 :pencil2: Verify that [npm](http://npmjs.com/) (Node Package Manager) was installed by typing `npm -v`:
 
 ```bash
 $ npm -v
-5.6.0
+9.1.3
 ```
 
 ### 0.2 Install dependencies
