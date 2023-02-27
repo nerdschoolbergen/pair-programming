@@ -1,27 +1,21 @@
-# Exercise 3 - Roman numerals 
+# Exercise 3 - Review session
 
-In this exercise, you will get to solve a more complex problem than FizzBuzz. 
-Apply the concepts you have learned in exercise 1 and 2. Remember the do's and dont's of pair programming.
+In this exercise we'll look at the way we've been working together!
 
-## 3.1 Problem description
+Maybe you've tried doing a code review?
 
-Implement a function that convers a number to roman numerals. An empty method is provided in `exercise-3.js`. The function should take a number as input and output a roman numeral string.
+:book: A code review is a process where two or more developers visually inspect a set of program code, typically, several times. The code can be a method, a class, or an entire program. The main code-review objectives are:
 
-Try to implement it with small numbers first, then build up to larger numbers. Numbers larger than 500 should not be accepted by your function. 
+* Best Practice ~ A more efficient, less error-prone, or more elegant way to accomplish a given task.<br/>
+* Error Detection ~ Discovering logical or transitional errors.
 
-All the rules can be found here: https://www.mathsisfun.com/roman-numerals.html
+You've now tried to pair with at least one person and tried at least two katas. Go through how you found the pairing session with your last partner. Spend about 10 minutes on this exercise. For those who want, we'll do a short summary with the rest of the participants. 
 
-Try to use test-driven development to drive the code towards a functioning converter. 
+* Did you manage to divide the work evenly? If not, what could you as a pair have done to improve?
+* When you were observing, could you follow what the driver was thinking? How did you interact?
+* When you were driving, what did you do to include the observer?
+* What did you think of the code that came out of this exercise? How is it different from what you would have written on your own? 
+* How did you communicate? Did you manage to be polite and professional? Were you offered the keyboard when you had an idea?
 
-Try to rotate every now and then. Do not neccecarily time every rotation, but try to rotate often and try to practice the "do's" of pair programming. (Ask for the keyboard, communicate clearly, be polite, talk about the problem, be constructive).
-
----
-```javascript
-function convertRoman(number) {
-    return "I";
-}
-```
-
-A function has been created, simply returning the the roman numeral value for 1. Write your tests in `exercise-4.tests.js` while implementing the logic of your converter in `exercise-4.js`. 
-
+If you're up for a challange, give exercise 4 a shot:
 ### [Go to exercise 4 :arrow_right:](../exercise-4/README.md)

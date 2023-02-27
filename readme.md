@@ -23,8 +23,10 @@ This repository contains a set of exercises organized in folders. Each folder co
 
 - [Exercise 1 - Pomodoro-style pairing](exercise-1/) (start here)
 - [Exercise 2 - Test/method-style pairing - New pairs](exercise-2/)
-- [Exercise 3 - Roman numerals](exercise-3/)
-- [Exercise 4 - Code review](exercise-4/)
+- [Exercise 3 - Code review](exercise-3/)
+- [Exercise 4 - Roman numerals](exercise-4/)
+
+Exercise 1-3 is the main content in this workshop, while exercise 4 is an optional challange
 
 ### Symbols and notation used in exercises
 
