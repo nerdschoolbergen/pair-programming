@@ -3,7 +3,7 @@
 In this exercise, you will get to solve a more complex problem than FizzBuzz. 
 Apply the concepts you have learned in exercise 1 and 2. Remember the do's and dont's of pair programming.
 
-## 3.1 Problem description
+## 4.1 Problem description
 
 Implement a function that convers a number to roman numerals. An empty method is provided in `exercise-4.js`. The function should take a number as input and output a roman numeral string.
 
