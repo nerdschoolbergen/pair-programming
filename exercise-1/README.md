@@ -10,18 +10,18 @@ This exercise will focus on Pomodoro-style :tomato: pairing using the fizz buzz 
 
 ### 0.1 Install Node.js/npm
 
-:pencil2: After installing [Node.js](https://nodejs.org), open up a command line window (Command Prompt or Powershell in Windows or Terminal in macOS) and type `node -v`, you should see a version number:
+:pencil2: After installing [Node.js LTS](https://nodejs.org), open up a command line window (Command Prompt or Powershell in Windows or Terminal in macOS) and type `node -v`, you should see a version number:
 
 ```bash
 $ node -v
-v18.12.1
+v22.13.1
 ```
 
 :pencil2: Verify that [npm](http://npmjs.com/) (Node Package Manager) was installed by typing `npm -v`, you should see a version number:
 
 ```bash
 $ npm -v
-9.1.3
+10.9.2
 ```
 
 ### 0.2 Install dependencies
