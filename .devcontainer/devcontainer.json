@@ -10,7 +10,7 @@
       "configureZshAsDefaultShell": true,
       "installOhMyZsh": true,
       "upgradePackages": true,
-      "username": "devcontainer"op
+      "username": "devcontainer"
     },
     "ghcr.io/devcontainers/features/github-cli:1": {
       "installDirectlyFromGitHubRelease": true,
